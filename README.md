@@ -1,2 +1,3 @@
 # firstproject
-this is my repositary 
+this is my repositary
+console.log()
